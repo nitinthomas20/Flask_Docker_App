@@ -9,6 +9,3 @@ This is a simple project that demonstrates how to run a **Flask web app** with a
 - PostgreSQL database container
 - Networking handled by Docker Compose
 - Example query from Flask to Postgres (`SELECT version();`)
-
----
-
